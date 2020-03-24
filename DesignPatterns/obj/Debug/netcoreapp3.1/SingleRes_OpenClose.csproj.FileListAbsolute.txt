@@ -1,0 +1,11 @@
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\bin\Debug\netcoreapp3.1\SingleRes_OpenClose.exe
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\bin\Debug\netcoreapp3.1\SingleRes_OpenClose.deps.json
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\bin\Debug\netcoreapp3.1\SingleRes_OpenClose.runtimeconfig.json
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\bin\Debug\netcoreapp3.1\SingleRes_OpenClose.runtimeconfig.dev.json
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\bin\Debug\netcoreapp3.1\SingleRes_OpenClose.dll
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\bin\Debug\netcoreapp3.1\SingleRes_OpenClose.pdb
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\obj\Debug\netcoreapp3.1\SingleRes_OpenClose.csprojAssemblyReference.cache
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\obj\Debug\netcoreapp3.1\SingleRes_OpenClose.AssemblyInfoInputs.cache
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\obj\Debug\netcoreapp3.1\SingleRes_OpenClose.AssemblyInfo.cs
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\obj\Debug\netcoreapp3.1\SingleRes_OpenClose.dll
+D:\.NET Projects\SOLID_Instructor\DesignPatterns\obj\Debug\netcoreapp3.1\SingleRes_OpenClose.pdb

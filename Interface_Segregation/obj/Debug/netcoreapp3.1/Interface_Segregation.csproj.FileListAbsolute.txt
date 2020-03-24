@@ -1,0 +1,11 @@
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\bin\Debug\netcoreapp3.1\Interface_Segregation.exe
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\bin\Debug\netcoreapp3.1\Interface_Segregation.deps.json
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\bin\Debug\netcoreapp3.1\Interface_Segregation.runtimeconfig.json
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\bin\Debug\netcoreapp3.1\Interface_Segregation.runtimeconfig.dev.json
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\bin\Debug\netcoreapp3.1\Interface_Segregation.dll
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\bin\Debug\netcoreapp3.1\Interface_Segregation.pdb
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\obj\Debug\netcoreapp3.1\Interface_Segregation.csprojAssemblyReference.cache
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\obj\Debug\netcoreapp3.1\Interface_Segregation.AssemblyInfoInputs.cache
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\obj\Debug\netcoreapp3.1\Interface_Segregation.AssemblyInfo.cs
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\obj\Debug\netcoreapp3.1\Interface_Segregation.dll
+D:\.NET Projects\SOLID_Instructor\Interface_Segregation\obj\Debug\netcoreapp3.1\Interface_Segregation.pdb

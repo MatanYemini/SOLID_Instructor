@@ -1,0 +1,15 @@
+D:\.NET Projects\DesignPatterns\Dependency_Inversion\bin\Debug\netcoreapp3.1\Dependency_Inversion.exe
+D:\.NET Projects\DesignPatterns\Dependency_Inversion\obj\Debug\netcoreapp3.1\Dependency_Inversion.csprojAssemblyReference.cache
+D:\.NET Projects\DesignPatterns\Dependency_Inversion\obj\Debug\netcoreapp3.1\Dependency_Inversion.AssemblyInfoInputs.cache
+D:\.NET Projects\DesignPatterns\Dependency_Inversion\obj\Debug\netcoreapp3.1\Dependency_Inversion.AssemblyInfo.cs
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\bin\Debug\netcoreapp3.1\Dependency_Inversion.exe
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\bin\Debug\netcoreapp3.1\Dependency_Inversion.deps.json
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\bin\Debug\netcoreapp3.1\Dependency_Inversion.runtimeconfig.json
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\bin\Debug\netcoreapp3.1\Dependency_Inversion.runtimeconfig.dev.json
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\bin\Debug\netcoreapp3.1\Dependency_Inversion.dll
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\bin\Debug\netcoreapp3.1\Dependency_Inversion.pdb
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\obj\Debug\netcoreapp3.1\Dependency_Inversion.csprojAssemblyReference.cache
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\obj\Debug\netcoreapp3.1\Dependency_Inversion.AssemblyInfoInputs.cache
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\obj\Debug\netcoreapp3.1\Dependency_Inversion.AssemblyInfo.cs
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\obj\Debug\netcoreapp3.1\Dependency_Inversion.dll
+D:\.NET Projects\SOLID_Instructor\Dependency_Inversion\obj\Debug\netcoreapp3.1\Dependency_Inversion.pdb

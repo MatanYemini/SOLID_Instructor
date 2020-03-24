@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Interface_Segregation/1.0.0": {
+        "runtime": {
+          "Interface_Segregation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interface_Segregation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

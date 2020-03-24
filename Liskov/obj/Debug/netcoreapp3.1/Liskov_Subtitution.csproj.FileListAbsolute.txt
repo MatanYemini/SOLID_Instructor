@@ -1,0 +1,11 @@
+D:\.NET Projects\SOLID_Instructor\Liskov\bin\Debug\netcoreapp3.1\Liskov_Subtitution.exe
+D:\.NET Projects\SOLID_Instructor\Liskov\bin\Debug\netcoreapp3.1\Liskov_Subtitution.deps.json
+D:\.NET Projects\SOLID_Instructor\Liskov\bin\Debug\netcoreapp3.1\Liskov_Subtitution.runtimeconfig.json
+D:\.NET Projects\SOLID_Instructor\Liskov\bin\Debug\netcoreapp3.1\Liskov_Subtitution.runtimeconfig.dev.json
+D:\.NET Projects\SOLID_Instructor\Liskov\bin\Debug\netcoreapp3.1\Liskov_Subtitution.dll
+D:\.NET Projects\SOLID_Instructor\Liskov\bin\Debug\netcoreapp3.1\Liskov_Subtitution.pdb
+D:\.NET Projects\SOLID_Instructor\Liskov\obj\Debug\netcoreapp3.1\Liskov_Subtitution.csprojAssemblyReference.cache
+D:\.NET Projects\SOLID_Instructor\Liskov\obj\Debug\netcoreapp3.1\Liskov_Subtitution.AssemblyInfoInputs.cache
+D:\.NET Projects\SOLID_Instructor\Liskov\obj\Debug\netcoreapp3.1\Liskov_Subtitution.AssemblyInfo.cs
+D:\.NET Projects\SOLID_Instructor\Liskov\obj\Debug\netcoreapp3.1\Liskov_Subtitution.dll
+D:\.NET Projects\SOLID_Instructor\Liskov\obj\Debug\netcoreapp3.1\Liskov_Subtitution.pdb

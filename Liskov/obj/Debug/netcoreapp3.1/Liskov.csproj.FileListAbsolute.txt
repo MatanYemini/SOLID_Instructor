@@ -1,0 +1,10 @@
+D:\.NET Projects\DesignPatterns\Liskov\bin\Debug\netcoreapp3.1\Liskov.exe
+D:\.NET Projects\DesignPatterns\Liskov\bin\Debug\netcoreapp3.1\Liskov.deps.json
+D:\.NET Projects\DesignPatterns\Liskov\bin\Debug\netcoreapp3.1\Liskov.runtimeconfig.json
+D:\.NET Projects\DesignPatterns\Liskov\bin\Debug\netcoreapp3.1\Liskov.runtimeconfig.dev.json
+D:\.NET Projects\DesignPatterns\Liskov\bin\Debug\netcoreapp3.1\Liskov.dll
+D:\.NET Projects\DesignPatterns\Liskov\bin\Debug\netcoreapp3.1\Liskov.pdb
+D:\.NET Projects\DesignPatterns\Liskov\obj\Debug\netcoreapp3.1\Liskov.AssemblyInfoInputs.cache
+D:\.NET Projects\DesignPatterns\Liskov\obj\Debug\netcoreapp3.1\Liskov.AssemblyInfo.cs
+D:\.NET Projects\DesignPatterns\Liskov\obj\Debug\netcoreapp3.1\Liskov.dll
+D:\.NET Projects\DesignPatterns\Liskov\obj\Debug\netcoreapp3.1\Liskov.pdb
